@@ -152,7 +152,7 @@ e - unidade de fita
 RC = Letra D, Das quatro opções apresentadas, a única considerada 
 fundamental para o funcionamento de um sistema computacional é a 
 memória principal ou RAM: trata-se da implementação da fita teórica da 
-máquina universal pensada por Alan Turing
+máquina universal pensada por Alan Turing.
 
 
 
