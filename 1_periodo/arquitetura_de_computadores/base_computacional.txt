@@ -1,0 +1,160 @@
+Modulo 1
+
+Maquina de Turing
+
+primeira ideia de computador criado, por Alan Turing, inicio do seculo 20, 1930
+4 elementos 
+- 1 fita infinita dividade em celulas 
+- 2 cabeçote capaz de ler a fita
+- 3 registrador
+- 4 função de transição
+
+primeira ideia do algoritmo
+
+definição de algoritmo (Conjunto finito de passos capaz de resolver um dado problema)
+
+binario é a forma de comunicação e informação dos computadores, 1 bit é a unidade minima
+onde 0 = desligado/ falso  1 = ligado/ verdadeiro
+
+------
+
+priemira geração de computadores  = Valvulas termionicas
+
+segunda geração de comp. = transistores
+
+terceira geração = circuito impressos
+
+quarta geração = micro processadores
+
+-------
+
+Teste de conhecimento 
+
+Q1 - Potentes, os computadores atuais podem ser levados
+até nossos bolsos, como é o caso dos celulares. 
+Entretanto, em sua primeira versão, um computador 
+ocupava uma sala inteira e pesava o equivalente a 
+30 carros. Para essa enorme evolução acontecer, 
+diversas descobertas científicas e tecnológicas 
+foram fundamentais.
+
+Assinale a alternativa que contém o conjunto de 
+tecnologias desenvolvido na ordem cronológica correta 
+para permitir o desenvolvimento dos computadores:
+
+a - transistor, microprocessador e circuito integrado
+b - rádio, válvulas termionicas e microprocessadores
+c - transistor, circuito integrado e micro processadores
+d - transistor, circuito integrado e rádio 
+e - transistor, microprocessadores e Valvulas termionicas
+
+RC = Letra C  
+
+O transistor permitiu a miniaturização dos componentes 
+do computador, rendendo aos seus criadores o Nobel 
+de Física de 1956. Os circuitos integrados permitiram 
+a colocação de diversos transistores e portas lógicas 
+em uma só pastilha de silício. Isso possibilitou a 
+feitura de microprocessadores capazes de operar um 
+computador programável e genérico a partir de um único
+ chip.
+
+ Q2 - Assim como a maioria dos avanços tecnológicos, 
+ os computadores foram construídos e desenvolvidos a 
+ partir de outras tecnologias que os precederam. 
+ Assinale a alternativa que não representa uma 
+ tecnologia precursora dos computadores:
+
+ a - Maquina universal de Turing
+ b - transistor
+ c - calculadora
+ d - energia eletrica
+ e - ábacos
+
+ RC = Letra B 
+
+ O primeiro computador funcionava à base de válvulas 
+ termiônicas. O transistor as substituiu posteriormente.
+
+
+Módulo 2 
+
+Hardware e Software
+
+Hardware = componentes fisicos
+ 
+Software = programas executados no computador
+
+---
+
+Hardware
+
+*processador  = responsavel por executar as instruções no precederam
+ele depende de um pulso periodico, chamado clock.
+memoria cache no processador, é uma pequena memoria que melhora
+a performance
+
+*Memoria principal ou RAM = responsavel pro guardar os dados e processador
+memoria de acessorio aleatorio, onde você sempre usa ela e
+para processar outra, você precisa descartar a anterior.
+Quanto maior a quantidade de MHz mais rapido vai ser o processamento.
+
+* Placa Mãe = circuito eletronico impresso, onde vai ser
+encaixado os outros componetes para conectar as peças principais
+e perifericos, para interagirem e o computador funcionar.
+Você coloca as peças nos chamados barramentos, é colocado
+processadores, memorias, hd e perifericos.
+
+* perifericos = 
+dispositivos de entrada = mouse, teclado 
+dispositivos de saida = monitor, impressora
+dispositivos de entrada e saida = monitor touchscreen
+
+
+Software
+
+Software Finalísticos ou de aplicação = Navegadore de internet,
+planilhas, editores de texto, jogos eletronico e etc.
+
+Software de Sistemas = Driver de dispositivos
+
+
+Teste de conhecimento
+
+Q1 - Escolha a alternativa que, respectivamente, 
+apresenta exemplos de software e de hardware em um 
+sistema computacional:
+
+a - jogo de computador e placa de video
+b - Navegador de internet e driver de rede 
+c - planilha e editor de texto
+d - memoria cache e disco rigido
+e - processador e fonte de alimentação
+
+RC = Letra A 
+
+O jogo de computador é um software finalístico, 
+enquanto a placa de vídeo é um exemplo de hardware 
+periférico que permite a execução de jogos com 
+gráficos avançados.
+
+
+Q2 - Um sistema computacional precisa de um local para armazenar os dados 
+e os programas que nele serão executados. Que elemento exerce essa função 
+essencial?
+
+a - memoria secundaria
+b - disco rigido
+c - memoria cache
+d - memoria principal
+e - unidade de fita
+
+RC = Letra D, Das quatro opções apresentadas, a única considerada 
+fundamental para o funcionamento de um sistema computacional é a 
+memória principal ou RAM: trata-se da implementação da fita teórica da 
+máquina universal pensada por Alan Turing
+
+
+
+
+
