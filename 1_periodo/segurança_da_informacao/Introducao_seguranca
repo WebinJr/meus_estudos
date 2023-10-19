@@ -93,3 +93,74 @@ Para decorar os pilares da segurança da informação, eles criam o seguinte mne
 Você resolve explicar para eles o significado de cada uma. Marque a alternativa que apresenta os termos corretos.
 
 RC = C é de confidencialidade: a capacidade do acesso à informação apenas por aqueles que possuem autorização; I, de integridade: a possibilidade de alteração da informação por pessoas ou sistemas autorizados; e D, de disponibilidade: a faculdade de uma informação poder ser acessada, em qualquer tempo, por pessoas ou sistemas autorizados para tal.
+
+
+Modulo 2 - Ciclo de vida da Info
+
+Segurança física = minimizar problemas com roubo, problema com danificação de equipamentos e etc.
+
+importante ter o controle de quem tem acesso e reduzir os problemas com danos naturais.
+Formas de restringir é com catracas biometricas, cartões de acesso restrito e etc.
+
+
+Segurança Lógica = proteção de sistema com softwares, ex: antivirus , mas a utilização de arquivos com criptografia.
+
+Senhas, lista de acesso, firewall e criptografia
+
+Algoritmos de Criptografia = simetrico utilizam chave publica e privado enquanto os assimetrico somente privado.
+
+Criptografia simetrica = utiliza funções matematicas e uma unica chave para codificar e decodificar a confidencialidade da info.
+
+Criptografia Assimetrica = utiliza 2 chaves para codificar e decodificar, uma privada(posse do proprietario) e uma publica(posse em um servidor confiavel).
+
+Testando conhecimento
+
+Q1 - A respeito dos conceitos que envolvem a segurança da informação, analise as afirmativas a seguir.
+
+I.Os mecanismos de segurança podem ser lógicos ou físicos.
+II. A perda de confidencialidade, integridade e disponibilidade é um exemplo dos eventos que comprometem a segurança da informação.
+III. Assinatura digital, encriptação e firewall são exemplos de mecanismos lógicos de segurança.
+
+RC : Todas estão corretas - Mecanismos ou controles de segurança podem ser lógicos e físicos. A segurança da informação é baseada em três aspectos fundamentas: confidencialidade, integridade e disponibilidade. Desse modo, a perda de qualquer um dos três aspectos já impacta na segurança. A pior situação ocorre quando perdemos os três juntos: trata-se praticamente de uma catástrofe. Por fim, os mecanismos lógicos, por definição, envolvem algoritmos.
+
+Q2 - A segurança computacional possui uma terminologia própria. Uma padronização na utilização dessa terminologia garante o correto entendimento entre os diferentes agentes envolvidos. Em relação a isso, considere as seguintes afirmações sobre a segurança computacional.
+
+I. A segurança física visa providenciar mecanismos para restringir o acesso às áreas críticas da organização a fim de garantir a integridade e a autenticidade dos dados.
+II. Uma ameaça pode ser definida como algum evento que pode ocorrer e acarretar algum perigo a algum ativo da rede. As ameaças podem ser intencionais ou não intencionais.
+III. São ameaças mais comuns às redes de computadores o acesso não autorizado, o reconhecimento (ex.: PortScan) e a negação de serviço (ex.: DoS ou DDoS).
+IV. O “tripé da segurança” é formado de pessoas, processos e políticas de segurança. De nada adianta uma política do tipo se as pessoas e os processos não forem considerados.
+
+Em relação à segurança computacional, estão corretas as afirmativas:
+
+RC 2 e 3 - A segurança é baseada em camadas; na parte física, são definidos os controles de acesso a determinadas regiões da instituição, como cancelas, catracas e sistemas de acesso biométrico. Quando eles perdem sua finalidade, o atacante pode chegar fisicamente perto do equipamento, podendo danificar a parte física dele. Dos vários problemas que podem ser realizados, devemos destacar a possibilidade de se quebrar o equipamento (colocando em risco a integridade da informação) ou modificá-lo de forma prejudicial (colocando em risco a autenticidade da informação). Contudo, não podemos garantir esses fatores. Neste ponto, um problema é gerado, pois ainda existem outros mecanismos que podem prover, pelo menos, a autenticidade dos dados.
+
+Q3 - Convém que sejam utilizados perímetros de segurança (barreiras, como paredes, portões de entrada controlados por cartão ou balcões de recepção com recepcionistas) para proteger as áreas que contenham informações e instalações de processamento da informação. Além disso, que sejam levadas em consideração e implementadas as seguintes diretrizes para perímetros de segurança física, quando apropriado:
+
+I. Os perímetros de segurança devem ser claramente definidos, assim como a localização e capacidade de resistência de cada perímetro precisam depender dos requisitos de segurança dos ativos existentes no interior do perímetro e dos resultados da análise/avaliação de riscos.
+II. Os perímetros de um edifício ou de um local que contenha instalações de processamento da informação precisam ser fisicamente sólidos (ou seja, o perímetro não deve ter brechas nem pontos onde poderia ocorrer facilmente uma invasão).
+III. Deve-se implantar uma área de recepção ou outro meio para controlar o acesso físico ao local ou ao edifício. Esse acesso deve ficar restrito somente ao pessoal autorizado.
+IV. Devem ser construídas barreiras físicas para impedir o acesso físico não autorizado e a contaminação do meio ambiente.
+
+Está correto o que se afirma em:
+
+RC = Todas - As instalações físicas devem possuir seguranças justapostas de forma que a fraqueza de uma camada possa ser recoberta por outra. Essa lógica fica clara no funcionamento de guaritas, cancelas e sensores biométricos.
+
+Q5 - Ao projetar uma rede, é comum adotar um firewall para proteger uma rede interna. Com relação ao papel do firewall, marque a opção que apresenta uma forma correta de classificar esse ativo de TIC.
+
+a- segurança logica
+b- segurança fisica
+c- segurança patrimonial
+d- segurança empresarial
+e- nenhuma das alternativas
+
+RC = letra A - O firewall é um importante ativo de rede; desse modo, encontrá-lo em um projeto de rede torna-se imprescindível. Ele protege uma rede interna analisando e bloqueando, por meio de algoritmos proprietários de cada marca, o acesso e o transporte de dados para dentro dela. Por manipulá-los, este ativo é classificado como segurança lógica.
+
+Q6 - A partir da pandemia ocorrida em 2020, os sistemas de acesso evoluíram para o uso de reconhecimento facial. Muitos desses sistemas possuem slogans bem criativos, como este: “Um sistema de acesso com reconhecimento facial permite levar a sua empresa diretamente para o mundo da alta tecnologia por meio do uso desta importante ferramenta de segurança: _______________”.
+
+Marque a alternativa que apresenta o termo que completa o slogan anterior de forma mais satisfatória.
+
+RC = Segurança Física - Um sistema de acesso, independentemente do tipo de chave (senha) criado, permite o bloqueio físico a determinado local. Esta chave (senha), com o passar do tempo, vem evoluindo bastante: cartões com códigos de barra, tarja magnética, digital, veias da mão e, agora, reconhecimento facial.
+
+
+
+
